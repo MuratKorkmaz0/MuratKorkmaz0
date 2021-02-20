@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from Nevşehir University Computer Programming Program. I know C # / Java languages. I use Adobe XD and Sketch programs as UI design tools. I am interested in digital game design as an amateur. I have experienced the cryengine engine for a long time and have intermediate knowledge. I also had the chance to experience programs such as Android Studio, 3DS Max, Google Sketchup, Photoshop CC, Adobe Animate, Adobe Fuse, Character Creator 3.
+I graduated from Nevşehir University Computer Programming Program. I have knowledge of beginner level javascript, intermediate level C # / Java languages and html, css, bootstrap. I use Adobe XD and Sketch programs as UI design tools. I am interested in digital game design as an amateur. I have experienced the cryengine engine for a long time and have intermediate knowledge. I also had the chance to experience programs such as Android Studio, 3DS Max, Google Sketchup, Photoshop CC, Adobe Animate, Adobe Fuse, Character Creator 3.
 
 
 
