@@ -4,7 +4,7 @@ I graduated from Nevşehir University Computer Programming Program. I have knowl
 Character Creator 3.
 
 
-P.S: I did not create a repository on github because my digital game prototypes using the Cryengine game engine exceeded the github lfs limit.
+P.S : I did not create a repository on github because my digital game prototypes using the Cryengine game engine exceeded the github lfs limit.
 
 
 
