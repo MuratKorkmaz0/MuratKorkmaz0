@@ -5,7 +5,6 @@
 * javascript
 * Java
 
-### middle level;
  ASP.Net-MVC
 * C # 
 * html
