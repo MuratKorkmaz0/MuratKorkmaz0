@@ -4,6 +4,8 @@
  ### Beginner
 * javascript
 * Java
+* C++
+* C
 
  ASP.Net-MVC
 * C # 
