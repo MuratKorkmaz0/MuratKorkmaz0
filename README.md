@@ -14,7 +14,7 @@
 * css
 * bootstrap
 
-### I use the following programs as UI design tools
+### UI Design tools
 * Adobe XD
 * Sketch
 
