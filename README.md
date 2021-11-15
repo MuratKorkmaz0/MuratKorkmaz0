@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I graduated from Nevşehir University Computer Programming Program.
- ### Beginner
+### Beginner
 * javascript
 * Java
 * C++
