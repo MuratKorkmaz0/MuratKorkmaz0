@@ -23,6 +23,6 @@
 
 * #### P.S : I did not create a repository on github because my digital game prototypes using the Cryengine game engine exceeded the github lfs limit.
 
-
+![](https://komarev.com/ghpvc/?username=MuratKorkmaz0&label=PROFILE+VIEWS)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuratKorkmaz0)](https://github.com/anuraghazra/github-readme-stats)
 
