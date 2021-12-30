@@ -2,7 +2,7 @@
                                                                                        
 ## I graduated from Nevşehir University Computer Programming Program.
 ### Beginner
-* javascript
+* javascript & React-Native Mobile App
 * Java
 * C++
 * C
@@ -13,6 +13,7 @@
 * html
 * css
 * bootstrap
+
 
 ### UI Design tools
 * Adobe XD
