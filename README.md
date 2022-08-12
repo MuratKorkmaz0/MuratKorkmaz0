@@ -8,11 +8,18 @@
 * C
 
 ### Middle Level
-* ASP.Net-MVC
+* ASP.Net Core-MVC
 * C # 
 * html
 * css
 * bootstrap
+
+### Technologies
+*MsSql Server
+*Docker
+*Kubernetes
+*Kitematic
+* Entity Framework
 
 
 ### UI Design tools
