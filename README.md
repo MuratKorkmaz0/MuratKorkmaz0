@@ -15,10 +15,10 @@
 * bootstrap
 
 ### Technologies
-*MsSql Server
-*Docker
-*Kubernetes
-*Kitematic
+* MsSql Server
+* Docker
+* Kubernetes
+* Kitematic
 * Entity Framework
 
 
