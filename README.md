@@ -1,18 +1,9 @@
 # Hi there 👋
                                                                                        
 ## I graduated from Nevşehir University Computer Programming Program.
-### Beginner
-* javascript & React-Native Mobile App
-* Java
-* C++
-* C
 
-### Middle Level
-* ASP.Net Core-MVC
-* C # 
-* html
-* css
-* bootstrap
+* javascript & React-Native Mobile App
+* ASP.Net Core
 
 ### Technologies
 * MsSql Server
