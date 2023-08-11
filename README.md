@@ -2,10 +2,9 @@
                                                                                        
 ## I graduated from Nevşehir University Computer Programming Program.
 
+### Technologies
 * javascript & React-Native Mobile App
 * ASP.Net Core
-
-### Technologies
 * MsSql Server
 * Docker
 * Kubernetes
